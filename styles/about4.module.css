@@ -1,0 +1,43 @@
+.box{
+    background-color: #FFF;
+    border: 1px solid #CCC;
+    box-shadow: 0 0 10px #ccc inset;
+    font-family: serif;
+    text-align: center;
+    width: 400px;
+}
+.head{
+    background: #753;
+    box-shadow: 0 0 10px #333 inset;
+    padding: 10px;
+}
+.h1{
+    color: #FFF;
+    margin: 0;
+    text-shadow: 0 -2px 0 #333;
+    font-size:32px;
+}
+
+.h2{
+    font-size:18px;
+    margin: 10px;
+}
+.bo{
+    padding: 20px;
+}
+.li{
+    display: list-item;
+    text-align: -webkit-match-parent;
+    font-size: 16px;
+    list-style:none;
+}
+.body {
+    background-color: #EDC;
+}
+
+.ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+

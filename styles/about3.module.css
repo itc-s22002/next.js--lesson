@@ -1,0 +1,36 @@
+.nav{
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+}
+.li{
+  background-color: #900;
+  border: 1px solid #300;
+  border-left: 0;
+  display: block;
+  float: left;
+  height: 48px;
+  line-height: 48px;
+  text-align: center;
+  width: 98px;
+}
+.li:first-child {
+  border-left: 1px solid #300;
+}
+.li:hover{
+    background-color: #C33;
+}
+.h1 {
+  color: #FFF;
+  font-size:16px;
+  padding:0;
+  margin:0;
+  display: block;
+  text-decoration: none;
+}
+
+.h1:hover {
+  text-decoration: underline;
+}
+
